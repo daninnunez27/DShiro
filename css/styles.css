@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    color: white;
+    background-image: url("/imagenes/7.jpg");
+    opacity: 98%;
+    background-attachment: fixed;
+     background-size: 500px;
+}
+
+
+.trabajos a{
+    text-decoration: none;
+}
+
+.trabajos a .cardd{
+    width: 330px;
+    height: 295px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    transition: all 0.25s;
+    background-color: snow;
+   
+}
+
+.trabajos a .cardd:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+    opacity: 98%;
+}
+
+.trabajos a .cardd img{
+    width: 330px;
+    min-width: 50%;
+    height: 220px;
+}
+
+.trabajos a .cardd h4 {
+    font-weight: 600;
+    margin-top: 7px;
+}
+
+.trabajos a .cardd p {
+    padding: 0 1rem;
+}

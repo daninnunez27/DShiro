@@ -45,3 +45,14 @@ body {
 .trabajos a .cardd p {
     padding: 0 1rem;
 }
+
+/* @media screen and (max-width:800px) {
+    body section .dentro-contacto{
+        width: 90%;
+        background-color: aqua;
+    }
+
+  /*   body section {
+        font-size: 5000px;
+    } */
+

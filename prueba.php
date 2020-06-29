@@ -24,7 +24,7 @@ try {
     $mail->Port = 25;
 
 
-    $mail->setFrom('daninnunez27@gmail.com');
+    $mail->setFrom('daninnunez27@hotmai.com');
 
     $mail->addAddress('daninnunez27@gmail.com');
 
